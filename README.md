@@ -12,9 +12,9 @@ Integrantes: Kuilmer Santiago Hernández Cruz · Valerie Gutiérrez Zambrano · 
 | E2. Informe | `informe/` |
 | E3. Deducciones manuscritas (B3, C1, D3, F5) | `manuscritos/` |
 | E4. Memorando ejecutivo | `memo/` |
-| E5. Bitácora de decisiones | `anexos/bitacora.md` (también en el anexo del informe) |
+| E5. Bitácora de decisiones | Anexo B del informe |
 | E6. Historial de versiones | historial de este repositorio |
-| E7. Declaración de uso de IA | `anexos/declaracion_IA.md` (también en el anexo del informe) |
+| E7. Declaración de uso de IA | Anexo C del informe |
 
 ## Cómo ejecutar el notebook
 
