@@ -10,7 +10,7 @@ Integrantes: Kuilmer Santiago Hernández Cruz · Valerie Gutiérrez Zambrano · 
 |---|---|
 | E1. Notebook | `notebook/proyecto_final.ipynb` |
 | E2. Informe | `informe/` |
-| E3. Deducciones manuscritas (B3, C1, D3, F5) | `manuscritos/` |
+| E3. Deducciones manuscritas (B3, C1, D3, F5) | Anexo D del informe |
 | E4. Memorando ejecutivo | `memo/` |
 | E5. Bitácora de decisiones | Anexo B del informe |
 | E6. Historial de versiones | historial de este repositorio |
